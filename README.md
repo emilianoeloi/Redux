@@ -6,9 +6,13 @@ Redux is a predictable state container for JavaScript apps.
 3) Pure and Impure Functions
 4) The Reducer Function
 5) Writing a counter reducer with tests
+6) Store methods getstate dispatch and subscribe
+7) 
 
 
 #References
+
+JSBin - http://jsbin.com
 
 Redux - http://redux.js.org/
 
