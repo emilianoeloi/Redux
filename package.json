@@ -1,0 +1,29 @@
+{
+  "name": "redux",
+  "version": "1.0.0",
+  "description": "Redux is a predictable state container for JavaScript apps.",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --hot --inline"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emilianoeloi/Redux.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/emilianoeloi/Redux/issues"
+  },
+  "homepage": "https://github.com/emilianoeloi/Redux#readme",
+  "dependencies": {
+    "react": "^0.14.7",
+    "react-redux": "^4.4.0",
+    "redux": "^3.3.1"
+  },
+  "devDependencies": {
+    "babel-plugin-transform-class-properties": "^6.5.2",
+    "babel-plugin-transform-object-rest-spread": "^6.5.0",
+    "redux-devtools": "^3.1.1"
+  }
+}
