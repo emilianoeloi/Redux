@@ -10,6 +10,7 @@ Redux is a predictable state container for JavaScript apps.
 7) Implementing store from scratch
 8) React counter example
 9) Avoiding array mutations with concat slice and spread
+10) Avoiding object mutation with object assign and spread
 
 
 #References
