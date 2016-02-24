@@ -27,6 +27,10 @@ Redux is a predictable state container for JavaScript apps.
 
 13) Reducer composition with arrays
 
+14) Reducer composition with objects
+
+15) 
+
 
 ## ReactConf
 
