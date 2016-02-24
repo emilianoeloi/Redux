@@ -12,7 +12,21 @@ Redux is a predictable state container for JavaScript apps.
 9) Avoiding array mutations with concat slice and spread
 10) Avoiding object mutation with object assign and spread
 11) Write a todo list reducer adding a todo
+12) Writing a todo list reducer toggling a todo
+13)
 
+
+## ReactConf
+
+new layout premitivies
+DX Developer eXperience
+New project experience
+Data management
+ - React setState
+ - Flux/Redux
+ - Relay
+
+ material ui react router enzyme
 
 #References
 
