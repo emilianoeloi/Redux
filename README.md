@@ -33,7 +33,7 @@ Redux is a predictable state container for JavaScript apps.
 
 16) Implementing combineReducer from Scratch
 
-17) 
+17) React todo list example adding a todo
 
 
 ## ReactConf
