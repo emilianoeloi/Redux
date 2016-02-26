@@ -39,10 +39,11 @@ Redux is a predictable state container for JavaScript apps.
 
 19) React todo list example filtering todos
 
-20) Extracting presentational components todo todolist
+20) Extracting presentational components todo, and TodoList
 
-21)
+21) Extracting presentational components addTodo, Footer, and FilterLink
 
+22) 
 
 ## ReactConf
 
