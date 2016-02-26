@@ -1,7 +1,7 @@
 # Redux
 Redux is a predictable state container for JavaScript apps.
 
-1) Rhe single immutable state tree
+1) The single immutable state tree
 
 2) Describing state change with actions
 
@@ -40,6 +40,8 @@ Redux is a predictable state container for JavaScript apps.
 19) React todo list example filtering todos
 
 20) Extracting presentational components todo todolist
+
+21)
 
 
 ## ReactConf
