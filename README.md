@@ -35,6 +35,8 @@ Redux is a predictable state container for JavaScript apps.
 
 17) React todo list example adding a todo
 
+18) React todo list example toggling a todo
+
 
 ## ReactConf
 
