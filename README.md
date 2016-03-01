@@ -47,7 +47,9 @@ x
 
 23) Extracting container components VisibilityList AddTodo
 
-24)     
+24) Passing the store down explicitly via props
+
+25)
 
 ## ReactConf
 
