@@ -49,7 +49,9 @@ x
 
 24) Passing the store down explicitly via props
 
-25)
+25) Passing the store down implicitly via context
+
+26) 
 
 ## ReactConf
 
