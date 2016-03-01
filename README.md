@@ -11,8 +11,8 @@ Redux is a predictable state container for JavaScript apps.
 
 5) Writing a counter reducer with tests
 
-6) Store methods getstate dispatch and subscribe
-
+6) Store methods getState dispatch and subscribe
+x
 7) Implementing store from scratch
 
 8) React counter example
@@ -43,11 +43,13 @@ Redux is a predictable state container for JavaScript apps.
 
 21) Extracting presentational components addTodo, Footer, and FilterLink
 
-22) 
+22) Extracting container component FilterLink
+
+23)    
 
 ## ReactConf
 
-new layout premitivies
+new layout premitives
 DX Developer eXperience
 New project experience
 Data management
