@@ -45,7 +45,9 @@ x
 
 22) Extracting container component FilterLink
 
-23)    
+23) Extracting container components VisibilityList AddTodo
+
+24)     
 
 ## ReactConf
 
