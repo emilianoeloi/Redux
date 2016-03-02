@@ -51,7 +51,9 @@ x
 
 25) Passing the store down implicitly via context
 
-26) 
+26) Passing the store down with provider from react Redux
+
+27) 
 
 ## ReactConf
 
