@@ -53,7 +53,11 @@ x
 
 26) Passing the store down with provider from react Redux
 
-27) 
+27) Generating container with connect from react-redux VisibleTodoList
+
+28) Generating container with connect from react-redux footerLink
+
+29) 
 
 ## ReactConf
 
