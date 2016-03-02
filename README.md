@@ -12,7 +12,7 @@ Redux is a predictable state container for JavaScript apps.
 5) Writing a counter reducer with tests
 
 6) Store methods getState dispatch and subscribe
-x
+
 7) Implementing store from scratch
 
 8) React counter example
@@ -57,7 +57,9 @@ x
 
 28) Generating container with connect from react-redux footerLink
 
-29) 
+29) Generating containers with connect from react-redux footerLink
+
+30) Extracting action creators
 
 ## ReactConf
 
